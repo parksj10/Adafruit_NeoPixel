@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.5)
 
-set(Adafruit_NeoPixel_COMPONENT_SRC_DIRSCMakeLists.txt
+set(Adafruit_NeoPixel_COMPONENT_SRC_DIRS
     .
 )
 
